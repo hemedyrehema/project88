@@ -1,0 +1,13 @@
+
+  p.one{
+    border-style: solid;
+    border-color: blue;
+  }
+  p.two{
+    border-style: double;
+    border-color: darkorange;
+  }
+  p.three{
+    border-style: dotted;
+    border-color: darkgreen;
+  
